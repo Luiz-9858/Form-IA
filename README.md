@@ -1,4 +1,4 @@
 # Formulário IA
-Modelo de formulário feito por IA 
+Modelo de formulário **simples** para desenvolvimento e **aprendizagem contínua.**
 
-Repositório criado durante uma aula ao vivo!
+Repositório *criado* durante uma aula ao vivo no **YouTube!**
